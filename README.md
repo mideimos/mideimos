@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨Software developer based in Spain.<br>🪄 Focusing on backend.<br>🎓Still studying!
+✨Sys. Admin based in Spain! <br>🪄🎓Still studying!
 
 
 # 💻 Tech Stack:
